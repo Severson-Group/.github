@@ -1,6 +1,6 @@
-# How to Contribute to the eLev Laboratory Knowledgebase <!-- omit from toc -->
+# How to Contribute <!-- omit from toc -->
 
-**Guidelines for contributing content to the knowledgebase Git repository.**
+**Guidelines for contributing content to the repository.**
 
 ## Table of Contents <!-- omit from toc -->
 
