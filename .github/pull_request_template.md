@@ -31,6 +31,7 @@ Checklists maintained by the eLev lab for research repositories include:
 3. Do all Markdown files follow the [CONTRIBUTING article template](https://github.com/Severson-Group/.github/blob/main/CONTRIBUTING.md#markdown-documentation-template)? **Yes or No**
 4. Do all links work in the material that the PR is adding? **Yes or No**
 5. Is the PR configured to close the correct issue(s)? **Yes or No**
+6. Did the PR fully address the `Approach` section of the issue(s) it is closing? **Yes or No**
 
 Please work on addressing any **No** items.
 ```
