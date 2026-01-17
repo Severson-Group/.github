@@ -20,7 +20,7 @@
   
 ## Purpose of Document
 
-This document explains the procedures, policies, and best-practices for contributing content to the knowledge base.
+This document explains the procedures, policies, and best-practices for contributing content.
 
 ## 1. File Structure and Conventions
 
