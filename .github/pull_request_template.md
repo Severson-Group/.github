@@ -21,7 +21,7 @@ This section should be the same for all PRs. Do not edit this section when creat
 Checklists maintained by the eLev lab for research repositories include:
 - [Report checklist](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/write-repo-report.md#pr-review-checklist)
 - [Publication archive checklist](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/archive-research-material.md) (select a checklist from the [Approach](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/archive-research-material.md#approach) that corresponds [to the step](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/archive-research-material.md#overview) this PR seeks to complete).
-- [Standard checklist](https://github.com/Severson-Group/research-repo-template/blob/main/.github/pull_request_template.md) (if none of the above apply).
+- [Standard checklist](https://github.com/Severson-Group/.github/blob/main/.github/pull_request_template.md#standard-checklist) (if none of the above apply).
 
 ### Standard checklist
 
