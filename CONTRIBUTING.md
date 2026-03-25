@@ -99,7 +99,7 @@ All markdown articles should use the same template as is used for this article. 
 - [Purpose of Document](#purpose-of-document)
 - [First Section](#first-section)
 - [Second Section](#second-section)
-- [Related Issues / PRs](#relevant-issues--prs)
+- [Related Issues / PRs](#related-issues--prs)
 
 ## Purpose of Document
 
