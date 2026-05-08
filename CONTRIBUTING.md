@@ -43,20 +43,17 @@ Follow this same naming convention for supporting files linked into markdown doc
 
 See the [docs.amdc.dev repository](https://github.com/Severson-Group/docs.amdc.dev) as an example.
 
-##### MATLAB / Simulink <!-- omit from toc -->
+##### MATLAB <!-- omit from toc -->
 
-Follow the Camel Case naming convention described in the [Knowledgebase's MATLAB article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/matlab/README.md#style-guidelines).
+Follow the naming convention described in the [Knowledgebase's MATLAB article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/matlab/README.md#style-guidelines).
+
+##### Simulink <!-- omit from toc -->
+
+Follow the naming convention described in the [Knowledgebase's Simulink article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/matlab/simulink.md#style-and-modeling-guidelines).
 
 ##### Python <!-- omit from toc -->
 
 Follow the naming convention described in the [Knowledgebase's Python article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/python/README.md#style-guidelines), which is [snake case](https://en.wikipedia.org/wiki/Snake_case) for most file types.
-
-##### Software <!-- omit from toc -->
-
-When committing software, use the naming convention of the software:
-
-- MATLAB naming convention is [listed here](code/matlab/README.md#style-guidelines)
-- Python naming convention is [listed here](code/python/README.md#style-guidelines)
 
 #### Large Files
 
