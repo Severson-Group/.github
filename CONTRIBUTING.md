@@ -17,6 +17,7 @@
 - [3. How to Use Git to Contribute to the Repository](#3-how-to-use-git-to-contribute-to-the-repository)
   - [Git Workflow](#git-workflow)
   - [Branch Naming](#branch-naming)
+- [4. Related Issues / PRs](#4-related-issues--prs)
   
 ## Purpose of Document
 
@@ -141,3 +142,9 @@ Branch names should use the following naming convention:
 
 - **Feature branch:** `feature/foo_bar` – shared feature development; other users are allowed to commit. *This is the recommended branch type.*
 - **User branch:** `user/my_user_name/foo_bar` – “private” development sandbox per user (if another user wants to add material to this branch, they should use a PR and not commit directly).
+
+## 4. Related Issues / PRs
+
+- [Issue #6: Update contributing style guidelines for MATLAB Simulink](https://github.com/Severson-Group/.github/issues/6)
+- [PR #7: Update contributing style guidelines to link to both MATLAB and Simulink articles](https://github.com/Severson-Group/.github/pull/7)
+- [Issue #2: Remove knowledge base specific language from CONTRIBUTING.md](https://github.com/Severson-Group/.github/issues/2)
