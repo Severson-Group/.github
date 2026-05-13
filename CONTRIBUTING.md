@@ -17,6 +17,7 @@
 - [3. How to Use Git to Contribute to the Repository](#3-how-to-use-git-to-contribute-to-the-repository)
   - [Git Workflow](#git-workflow)
   - [Branch Naming](#branch-naming)
+- [4. Related Issues / PRs](#4-related-issues--prs)
   
 ## Purpose of Document
 
@@ -43,20 +44,17 @@ Follow this same naming convention for supporting files linked into markdown doc
 
 See the [docs.amdc.dev repository](https://github.com/Severson-Group/docs.amdc.dev) as an example.
 
-##### MATLAB / Simulink <!-- omit from toc -->
+##### MATLAB <!-- omit from toc -->
 
-Follow the Camel Case naming convention described in the [Knowledgebase's MATLAB article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/matlab/README.md#style-guidelines).
+Follow the naming convention described in the [Knowledgebase's MATLAB article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/matlab/README.md#style-guidelines).
+
+##### Simulink <!-- omit from toc -->
+
+Follow the naming convention described in the [Knowledgebase's Simulink article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/matlab/simulink.md#style-and-modeling-guidelines).
 
 ##### Python <!-- omit from toc -->
 
 Follow the naming convention described in the [Knowledgebase's Python article](https://github.com/Severson-Group/KnowledgeBase/blob/main/code/python/README.md#style-guidelines), which is [snake case](https://en.wikipedia.org/wiki/Snake_case) for most file types.
-
-##### Software <!-- omit from toc -->
-
-When committing software, use the naming convention of the software:
-
-- MATLAB naming convention is [listed here](code/matlab/README.md#style-guidelines)
-- Python naming convention is [listed here](code/python/README.md#style-guidelines)
 
 #### Large Files
 
@@ -144,3 +142,9 @@ Branch names should use the following naming convention:
 
 - **Feature branch:** `feature/foo_bar` – shared feature development; other users are allowed to commit. *This is the recommended branch type.*
 - **User branch:** `user/my_user_name/foo_bar` – “private” development sandbox per user (if another user wants to add material to this branch, they should use a PR and not commit directly).
+
+## 4. Related Issues / PRs
+
+- [Issue #6: Update contributing style guidelines for MATLAB Simulink](https://github.com/Severson-Group/.github/issues/6)
+- [PR #7: Update contributing style guidelines to link to both MATLAB and Simulink articles](https://github.com/Severson-Group/.github/pull/7)
+- [Issue #2: Remove knowledge base specific language from CONTRIBUTING.md](https://github.com/Severson-Group/.github/issues/2)
