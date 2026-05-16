@@ -13,6 +13,7 @@
   - [Language](#language)
   - [Development Environment](#development-environment)
   - [Style](#style)
+  - [Images](#images)
   - [Markdown Documentation Template](#markdown-documentation-template)
 - [3. How to Use Git to Contribute to the Repository](#3-how-to-use-git-to-contribute-to-the-repository)
   - [Git Workflow](#git-workflow)
@@ -82,6 +83,15 @@ Users can also edit Markdown directly within GitHub. If you do this, you will ne
 ### Style
 
 When you set up you [Development Environment](#development-environment) with [the recommended Markdown extensions](tools/VS_Code.md#recommended-extensions), Visual Studio Code will make style suggestions to you, such as including a blank line before lists and after headings. Please follow these suggestions.
+
+### Images
+
+It is important to keep image file size in markdown docs small, see our [large files policy](#large-files). Realistically, even 300 kB is too large for a doc containing many images that are occasionaly updated.
+
+Whenever possible, contributors should use these two formats of images:
+
+- **.svg**: for vectorized graphics (preferrably created in Inkscape)
+- **.webp**: for rasterized graphics in place of `*.png` or `*.jpg`, as this offers much smaller file sizes (typically >45% smaller for same quality).
 
 ### Markdown Documentation Template
 
