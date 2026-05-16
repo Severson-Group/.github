@@ -155,6 +155,7 @@ Branch names should use the following naming convention:
 
 ## 4. Related Issues / PRs
 
+- [Issue #8: Add contributing instructions to use webp format for markdown images](https://github.com/Severson-Group/.github/issues/8)
 - [Issue #6: Update contributing style guidelines for MATLAB Simulink](https://github.com/Severson-Group/.github/issues/6)
 - [PR #7: Update contributing style guidelines to link to both MATLAB and Simulink articles](https://github.com/Severson-Group/.github/pull/7)
 - [Issue #2: Remove knowledge base specific language from CONTRIBUTING.md](https://github.com/Severson-Group/.github/issues/2)
