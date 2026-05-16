@@ -88,7 +88,7 @@ When you set up you [Development Environment](#development-environment) with [th
 
 It is important to keep image file size in markdown docs small, see our [large files policy](#large-files). Realistically, even 300 kB is too large for a doc containing many images that are occasionaly updated.
 
-Whenever possible, contributors should use these two formats of images:
+Whenever possible, contributors should use these two formats for images:
 
 - **.svg**: for vectorized graphics (preferrably created in Inkscape)
 - **.webp**: for rasterized graphics in place of `*.png` or `*.jpg`, as this offers much smaller file sizes (typically >45% smaller for same quality).
