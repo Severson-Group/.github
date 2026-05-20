@@ -59,11 +59,11 @@ Follow the naming convention described in the [Knowledgebase's Python article](h
 
 #### Large Files
 
-Don't do it! **Files larger than 15MB should never be committed** *(files less than 300kB are preferred; and files larger than 1 MB should be avoided)*. Large files can be stored in Google Drive and linked into Markdown articles.
+Don't do it! **Files larger than 15MB should never be committed** *(images less than 40kB and files less than 300kB are preferred; files larger than 1 MB should be avoided whenever possible)*. Large files can be stored in Google Drive and linked into Markdown articles.
 
 In the future, we may also explore using [Git Large File Storage](https://git-lfs.github.com/).
 
-If you accidentally committed a file larger than 15MB:
+If you accidentally committed a large file:
 
 1. submit a new commit that eliminates this file (i.e., replace it with a smaller file),
 2. ensure that the PR is merged via a `Squash and Merge` so that the large file does not appear in the repo history.
@@ -90,8 +90,8 @@ It is important to keep image file size in markdown docs small, see our [large f
 
 Whenever possible, contributors should use these two formats for images:
 
-- **.svg**: for vectorized graphics (preferrably created in Inkscape)
-- **.webp**: for rasterized graphics in place of `*.png` or `*.jpg`, as this offers much smaller file sizes (typically >45% smaller for same quality).
+- **.svg**: for vectorized graphics (preferrably created in Inkscape), see instructions in [the Inkscape KB article](https://github.com/Severson-Group/KnowledgeBase/blob/main/tools/Inkscape.md).
+- **.webp**: for rasterized graphics in place of `*.png` or `*.jpg`, as this offers much smaller file sizes (typically >45% smaller for same quality); see instructions in [the WebP KB article](https://github.com/Severson-Group/KnowledgeBase/blob/main/tools/webp.md).
 
 > [!NOTE]
 > When using these formats, a reasonable compromise of quality and image size for markdown docs is in the range of 10 - 40 kB.
