@@ -19,6 +19,7 @@ This section should be the same for all PRs. Do not edit this section when creat
 ## Review Checklists
 
 Checklists maintained by the eLev lab for research repositories include:
+
 - [Report checklist](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/write-repo-report.md#pr-review-checklist)
 - [Publication archive checklist](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/archive-research-material.md) (select a checklist from the [Approach](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/archive-research-material.md#approach) that corresponds [to the step](https://github.com/Severson-Group/KnowledgeBase/blob/main/writing/archive-research-material.md#overview) this PR seeks to complete).
 - [Standard checklist](https://github.com/Severson-Group/.github/blob/main/.github/pull_request_template.md#standard-checklist) (if none of the above apply).
@@ -26,7 +27,7 @@ Checklists maintained by the eLev lab for research repositories include:
 ### Standard checklist
 
 ```markdown
-1. Are all files under 300 kB (if not, please carefully assess whether it is worth committing them)? **Yes or No**
+1. Are all images < 40 kB and other files < 300 kB (if not, please carefully assess whether it is worth committing them)? **Yes or No**
 2. Are all files named according to the appropriate [naming convention](https://github.com/Severson-Group/research-repo-template?tab=readme-ov-file#file-naming), i.e., dash-case, camelCase, snake case? **Yes or No**
 3. Do all Markdown files follow the [CONTRIBUTING article template](https://github.com/Severson-Group/.github/blob/main/CONTRIBUTING.md#markdown-documentation-template)? **Yes or No**
 4. Do all links work in the material that the PR is adding? **Yes or No**
